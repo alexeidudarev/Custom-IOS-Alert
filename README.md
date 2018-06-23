@@ -7,6 +7,7 @@ Go to your Project Inspectorâ€™s General tab and scroll down to where it says, â
 And then add framework to Embedded Binaries.
 
 //framework implementation 
+
 import UIKit
 
 //dont forget to import framework to this class
