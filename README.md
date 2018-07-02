@@ -11,6 +11,8 @@ And then add framework to Embedded Binaries.
 import UIKit
 
 //dont forget to import framework to this class
+
+
 import ADModalStatus
 
 class ViewController: UIViewController {
